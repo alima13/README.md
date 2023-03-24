@@ -1,10 +1,11 @@
 ### 👋 About me
 Hi there! I am a computer engineering masters student and software engineer by heart who likes to learn new things and put it on a code (if possible).
 Currently interested in backend development, Linux Stuff, and scientific computing.
-### 🌱 Technologies I used (or wanted to learn)
-python,
+### 🌱 Technologies I used 
+Python,
+Akka and Reactive Programming
 Node.js,
-a little bit of rust,
+a little bit of Rust,
 Spark,
 Kafka,
 Elasticsearch
